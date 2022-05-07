@@ -1,0 +1,4 @@
+<Files "cda-paintings-2022-04-22.de.json">
+  Order Allow,Deny
+  Deny from all
+</Files>
